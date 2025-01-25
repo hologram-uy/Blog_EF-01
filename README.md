@@ -37,7 +37,7 @@ Install-Package EntityFramework
 
 1. **Clona el repositorio:**
    ```bash
-   git clone https://github.com/tuusuario/nombre-del-repo.git
+   git clone https://github.com/hologram-uy/Blog_EF-01
    ```
 
 2. **Abre el proyecto en Visual Studio:**
